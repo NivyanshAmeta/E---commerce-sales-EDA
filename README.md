@@ -34,7 +34,7 @@ Database Creation & Cleaning:
 - queries.sql: Contains 12+ analytical queries exploring sales performance, customer behavior, and operational efficiency.
 
 # 🛠 Tools & Technologies
-- SQL (MySQL/PostgreSQL syntax)
+- My SQL Server
 
 - Window functions, CTEs, aggregation, date functions, and joins
 
